@@ -45,6 +45,6 @@ Mon parcours a commencé en STI2D, et malgré un début sans connaissances en pr
 
 ## Me Contacter
 
-- [LinkedIn](#) *(https://www.linkedin.com/in/dylan-ballet/)*
+- [LinkedIn](https://www.linkedin.com/in/dylan-ballet/)
 
 N'hésitez pas à explorer mes dépôts GitHub pour découvrir mes projets de codage et mes contributions. Pour toute demande d'information ou collaboration, contactez-moi via LinkedIn.
