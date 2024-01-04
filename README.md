@@ -15,7 +15,7 @@ Mon parcours a commencé en STI2D, et malgré un début sans connaissances en pr
 - Engagement actif dans diverses activités parascolaires, dont la musique et le sport.
 - Compétences solides en travail d'équipe et collaboration.
 
-## Projets
+## Quelques Projets
 
 ### JA-Dex
 
