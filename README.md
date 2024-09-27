@@ -2,7 +2,7 @@
 
 ## A propos de moi
 
-Salut ! Je m'appelle Dylan BALLET et je suis actuellement en deuxième année du Bachelor Universitaire de Technologie (BUT) en Informatique à l'IUT de Lens.
+Salut ! Je m'appelle Dylan BALLET et je suis actuellement en troisième année du Bachelor Universitaire de Technologie (BUT) en Informatique à l'IUT de Lens.
 
 ## Parcours Académique
 
@@ -39,7 +39,7 @@ Mon parcours a commencé en STI2D, et malgré un début sans connaissances en pr
 
 ## Mes Intérêts
 
-- Passionné de volleyball, bien que je ne le pratique pas actuellement.
+- Passionné de volleyball.
 - Amateur de jeux vidéo, avec un intérêt particulier pour les genres de survie et de bac à sable.
 - Batteur accompli dans deux groupes de musique et ancien saxophoniste.
 
